@@ -13,7 +13,7 @@
 
 ### Thanks and Credits
 
-Theme is by fagnerpc and modified by Juliano Dorigão too.
+Theme is by **fagnerpc** and modified by **Juliano Dorigão** too.
 
 ---
 
