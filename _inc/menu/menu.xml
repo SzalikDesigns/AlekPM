@@ -5,34 +5,34 @@
     <view name="menu">
         <menuText name="menutitle">
             <fontPath>./core/fonts/ubuntu_bold.ttf</fontPath>
-            <fontSize>0.044</fontSize>
-            <color>969696</color>
+            <fontSize>0.06</fontSize>
+            <color>ffffff</color>
         </menuText>
 
          <menuText name="menufooter">
             <fontPath>./core/fonts/ubuntu_medium.ttf</fontPath>
-            <fontSize>0.02</fontSize>
-            <color>777777FF</color>
+            <fontSize>0.05</fontSize>
+            <color>ffffff</color>
         </menuText>
 
        <menuText name="menutext">
             <fontPath>./core/fonts/ubuntu_medium.ttf</fontPath>
-            <fontSize>0.035</fontSize>
+            <fontSize>0.045</fontSize>
             <color>969696</color>
-            <separatorColor>345173</separatorColor>
-            <selectorColor>b3b3b3</selectorColor>
-            <selectorColorEnd>5d5d5d</selectorColorEnd>
-            <selectedColor>262626</selectedColor>
+            <separatorColor>fe0303</separatorColor>
+            <selectorColor>ffffff</selectorColor>
+            <selectorColorEnd>ffffff</selectorColorEnd>
+            <selectedColor>fe0303</selectedColor>
         </menuText>
 
          <menuTextSmall name="menutextsmall">
             <fontPath>./core/fonts/ubuntu_medium.ttf</fontPath>
-            <fontSize>0.02</fontSize>
+            <fontSize>0.035</fontSize>
             <color>deec00</color>
         </menuTextSmall>
 
        <menuBackground name="menubg">
-            <color>28405A</color>
+            <color>000000</color>
         </menuBackground>
 
     </view>

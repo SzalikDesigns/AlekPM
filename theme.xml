@@ -24,8 +24,8 @@ gameboy hack, nintendo hack, genesis hack, entre outros, meunu personalizado, so
 
       <helpsystem name="help">
          <fontPath>./_inc/fonts/Oxygen-Regular.ttf</fontPath>
-         <fontSize>0.0215</fontSize>     
-         <pos>0.18 0.942</pos>      
+         <fontSize>0.028</fontSize>     
+         <pos>0.05 0.942</pos>      
          <textColor>636363</textColor>
          <iconColor>ffffff</iconColor>
       </helpsystem> 	  
@@ -48,11 +48,11 @@ gameboy hack, nintendo hack, genesis hack, entre outros, meunu personalizado, so
          </carousel>
          
          <text name="systemInfo">
-            <pos>-0.30 0.924</pos>
+            <pos>0.3 0.909</pos>
             <backgroundColor>00000000</backgroundColor>
             <color>cbcbcb</color>
             <fontPath>./_inc/fonts/Oxygen-Regular.ttf</fontPath>
-            <fontSize>0.0215</fontSize>
+            <fontSize>0.05</fontSize>
          </text> 
       
          <image name="mainOverlay" extra="true">
@@ -63,8 +63,9 @@ gameboy hack, nintendo hack, genesis hack, entre outros, meunu personalizado, so
          </image>
 
          <helpsystem name="help">
-            <pos>0.30 0.942</pos>      
+            <pos>0.1 0.942</pos>      
             <textColor>ffffff</textColor>         
+            <fontSize>0.028</fontSize>
       </helpsystem>
       </view>
    </feature>
