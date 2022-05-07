@@ -9,7 +9,7 @@ Built and tested on [AmberELEC](https://AmberELEC.org).
 ### Thanks and Credits
 
 Theme is invented by **fagnerpc** 
-huge modifications was made by **Juliano Dorigão**
+huge modifications was made by **Juliano Dorigão** and **shantigilbert**
 
 ---
 
