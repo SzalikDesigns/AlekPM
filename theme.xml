@@ -72,6 +72,7 @@ gameboy hack, nintendo hack, genesis hack, entre outros, meunu personalizado, so
 
    <view name="detailed, video, basic">
       <image name="logo">
+			<color>FFFFFF</color>
 		   <pos>0.14 0.925</pos>
 		   <maxSize>0.10 0.10</maxSize>
       </image>
@@ -175,6 +176,7 @@ gameboy hack, nintendo hack, genesis hack, entre outros, meunu personalizado, so
       </image>
 
       <image name="logo">
+			<color>FFFFFF</color>
 		   <pos>0.14 0.925</pos>
 		   <maxSize>0.10 0.10</maxSize>
       </image>

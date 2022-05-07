@@ -3,37 +3,29 @@
     <formatVersion>4</formatVersion>
 
     <view name="menu">
-        <menuText name="menutitle">
-            <fontPath>./core/fonts/ubuntu_bold.ttf</fontPath>
-            <fontSize>0.06</fontSize>
-            <color>ffffff</color>
-        </menuText>
-
-         <menuText name="menufooter">
-            <fontPath>./core/fonts/ubuntu_medium.ttf</fontPath>
-            <fontSize>0.05</fontSize>
-            <color>ffffff</color>
-        </menuText>
-
-       <menuText name="menutext">
-            <fontPath>./core/fonts/ubuntu_medium.ttf</fontPath>
-            <fontSize>0.045</fontSize>
-            <color>969696</color>
-            <separatorColor>fe0303</separatorColor>
-            <selectorColor>ffffff</selectorColor>
-            <selectorColorEnd>ffffff</selectorColorEnd>
-            <selectedColor>fe0303</selectedColor>
-        </menuText>
-
-         <menuTextSmall name="menutextsmall">
-            <fontPath>./core/fonts/ubuntu_medium.ttf</fontPath>
-            <fontSize>0.035</fontSize>
-            <color>deec00</color>
-        </menuTextSmall>
-
-       <menuBackground name="menubg">
-            <color>000000</color>
-        </menuBackground>
+		<menuText name="menutitle">
+			<fontSize>0.034375</fontSize>
+			<color>FFBF00</color>
+		</menuText>
+		<menuText name="menufooter">
+			<fontSize>0.0325</fontSize>
+			<color>666666</color>
+		</menuText>
+		<menuText name="menutext">
+			<fontSize>0.036</fontSize>
+			<color>444444</color>
+			<separatorColor>222222</separatorColor>
+			<selectorColor>555555</selectorColor>
+			<selectedColor>ffffff</selectedColor>
+		</menuText>
+		<menuTextSmall name="menutextsmall">
+			<fontSize>0.03</fontSize>
+			<color>d53600</color>
+		</menuTextSmall>
+		<menuBackground name="menubg">
+			<color>111111</color>
+			<cornerSize>20 20</cornerSize>
+		</menuBackground>
 
     </view>
 </theme>
