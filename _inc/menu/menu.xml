@@ -1,3 +1,7 @@
+<!--
+	Theme name:  ALEKPM
+	Coding by:   Szalik
+-->
 
 <theme>
     <formatVersion>4</formatVersion>
@@ -26,6 +30,5 @@
 			<color>111111</color>
 			<cornerSize>20 20</cornerSize>
 		</menuBackground>
-
     </view>
 </theme>
